@@ -12,12 +12,12 @@ $lang['direction']  = 'ltr';
  
 // for admin plugins, the menu prompt to be displayed in the admin menu
 // if set here, the plugin doesn't need to override the getMenuText() method
-$lang['menu']            = 'Moderate Discussions'; 
+$lang['menu']            = 'Discussions 관리'; 
 
 $lang['discussion']      = '의견';
 $lang['comment']         = '댓글';
 $lang['comments']        = '댓글들';
-$lang['nocomments']      = '댓글들';
+$lang['nocomments']      = '댓글';
 $lang['url']             = '홈페이지';
 $lang['address']         = '주소';
 $lang['date']            = '날짜';
